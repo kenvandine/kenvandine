@@ -1,5 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kenvandine&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=E95420&bg_color=5E2750&border_color=E95420&border_radius=25)
 
+![](https://img.shields.io/badge/ubuntu-developer-orange?style=flat&logo=Ubuntu&logoColor=white&color=E95420)
+
 Engineering Manager, Ubuntu Desktop @ Canonical
 
 <!--
