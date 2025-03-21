@@ -1,8 +1,8 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=kenvandine&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=E95420&bg_color=5E2750&border_color=E95420&border_radius=25)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kenvandine&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 
 ![](https://img.shields.io/badge/ubuntu-developer-orange?style=flat&logo=Ubuntu&logoColor=white&color=E95420)
 
-Engineering Manager, Ubuntu Desktop @ Canonical
+Staff Engineer, Ubuntu @Canonical
 
 <!--
 **kenvandine/kenvandine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
