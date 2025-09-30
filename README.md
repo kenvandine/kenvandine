@@ -4,6 +4,8 @@
 
 Staff Engineer, Ubuntu @Canonical
 
+![](https://algora.io/og/user/kenvandine)
+
 <!--
 **kenvandine/kenvandine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
