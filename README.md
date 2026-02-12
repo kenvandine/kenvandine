@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=kenvandine&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true&count_private=true)
+![Github stats](http://github-user-stats.linuxgroove.com/api?username=kenvandine&show=reviews,prs_merged,prs_merged_percentage)
 
 ![](https://img.shields.io/badge/ubuntu-developer-orange?style=flat&logo=Ubuntu&logoColor=white&color=E95420)
 
